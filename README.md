@@ -108,7 +108,10 @@ Also:
   If the user beats one of the 5 scores from the leaderboard, a message is displayed on the LCD and he/she has to enter his/her name. 
   
   After that, when entering the Highscores section of the menu, their name will be displayed there.   
-    
+   
+  ## Easter Egg
+    If, at the end of your game, you have a score that is a multiple of 100, your score will double itself.
+  
   ## YouTube demo
   https://youtu.be/6aw4ytRnKmw
     
