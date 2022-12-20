@@ -110,7 +110,7 @@ Also:
   After that, when entering the Highscores section of the menu, their name will be displayed there.   
    
   ## Easter Egg
-    If, at the end of your game, you have a score that is a multiple of 100, your score will double itself.
+   If, at the end of your game, you have a score that is a multiple of 100, your score will double itself.
   
   ## YouTube demo
   https://youtu.be/6aw4ytRnKmw
